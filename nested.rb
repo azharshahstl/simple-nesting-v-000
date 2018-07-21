@@ -18,7 +18,7 @@ def hopper
 
 programmer_hash[:grace_hopper]
 
-#programmer_hash[:dennis_ritchie][:languages]
+programmer_hash[:dennis_ritchie][:languages]
 end
 
 def alan_kay_is_known_for
